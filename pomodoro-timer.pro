@@ -27,7 +27,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
+QT       += core gui widgets
 
 TARGET = pomodoro-timer
 TEMPLATE = app

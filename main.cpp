@@ -21,7 +21,7 @@
  **
  ****************************************************************************/
 
-#include <QtGui/QApplication>
+#include <QtWidgets/QApplication>
 #include <QMessageBox>
 #include "mainwindowpresenter.h"
 #include "mainwindow.h"
