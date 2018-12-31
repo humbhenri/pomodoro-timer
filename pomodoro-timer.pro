@@ -56,4 +56,8 @@ RESOURCES += \
 
 RC_FILE += icon.rc
 
-ICON = images/tomato.png
+ICON = images/tomato.ico
+
+DISTFILES += \
+    setup.iss
+
